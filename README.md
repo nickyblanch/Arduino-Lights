@@ -1,0 +1,2 @@
+# Arduino-Lights
+This code uses a custom designed circuit with an MSGEQ7 8-pin IC to control 50 WS2811 LED pixels. It measures the frequency amplitudes of an input audio signal, calculates how many lights to light up, and then sends instructions to the LED strip. The way it is currently formatted, the Arduino will light up more lights when the drums flash. Visit https://www.nickyblanch.xyz/projects.html and scroll down to see a demonstration of the lights in action, as well as a more detailed description of how they work.
